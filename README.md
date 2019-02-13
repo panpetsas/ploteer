@@ -42,3 +42,10 @@
 
 
 ![plotter](https://user-images.githubusercontent.com/44138361/52704923-5fc13280-2f8a-11e9-9e47-d2fcf0865e8d.png)
+
+
+
+##  ΕΚΤΕΛΕΣΗ PLOTEER
+
+https://www.youtube.com/watch?v=6qi2Vb5PYUA&feature=youtu.be
+
