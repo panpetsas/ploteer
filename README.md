@@ -45,11 +45,21 @@
 
 
 
-##  EKTELESH PLOTEER
+##  ΛΕΙΤΟΥΡΓΙΑ PLOTEER
 
 https://www.youtube.com/watch?v=6qi2Vb5PYUA&feature=youtu.be
 
 
 ## ΛΟΓΙΣΜΙΚΟ
 
-arduino ide: 
+arduino ide: https://www.arduino.cc/en/main/software
+
+grbl arduino: https://github.com/grbl/grbl
+
+universalgcode 1.0.9: http://winder.github.io/ugs_website/download/
+
+inkscape 0.48.5: https://inkscape.org/release/inkscape-0.48/?latest=1
+
+Unicorn G-Code for Inkscape: https://github.com/martymcguire/inkscape-unicorn
+
+
