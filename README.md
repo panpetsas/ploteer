@@ -62,4 +62,7 @@ inkscape 0.48.5: https://inkscape.org/release/inkscape-0.48/?latest=1
 
 Unicorn G-Code for Inkscape: https://github.com/martymcguire/inkscape-unicorn
 
+## ΠΑΡΟΥΣΙΑΣΗ ΚΑΤΑΣΚΕΥΗΣ
+https://youtu.be/EWbsClgWt1A
+
 
